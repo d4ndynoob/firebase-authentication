@@ -2,7 +2,7 @@
   "name": "react-firebase-authentication",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://d4ndynoob.github.io/firebase-authentication/",
+  "homepage": "http://d4ndynoob.github.io/firebase-authentication/",
   "type": "module",
   "scripts": {
     "dev": "vite",
